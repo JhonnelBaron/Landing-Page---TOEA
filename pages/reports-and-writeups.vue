@@ -6,7 +6,7 @@
           <a class="flex items-center space-x-3 rtl:space-x-reverse">
             <img src='/img/toea-logo.png' class="h-10" alt="TOEA Icon" />
             <span class="self-center text-xs font-semibold text-gray-700 dark:text-white">
-              <b>TESDA Organizational<br>Excellence Award</b>
+              <b>TESDA Organizational<br>Excellence Awards</b>
             </span>
           </a>
           <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
