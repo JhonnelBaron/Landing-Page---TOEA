@@ -3,8 +3,11 @@
         <!-- Left Image -->
         <div class="flex flex-col items-center space-y-4">
             <img src="/img/bro-paper.png" class="h-[200px] w-auto" alt="TOEA Categories BRO" />
+            <p>Presented to the regional office that exhibits outstanding performance, sustained commitment to quality, and adherence to governance and management standards in TVET. It recognizes proficiency in achieving organizational goals and fostering excellence in service delivery across the region.</p>
             <img src="/img/gp-paper.png" class="h-[200px] w-auto" alt="TOEA Categories GP" />
+            <p>Demonstrated exceptional proficiency in several key areas related to the supervision, coordination, integration, implementation, and monitoring of Technical Vocational Education and Training (TVET) programs within their respective province</p>
             <img src="/img/bti-paper.png" class="h-[200px] w-auto" alt="TOEA Categories BTI" />
+            <p>Shown exemplary proficiency, sustained dedication to quality, and unwavering adherence to standards of integrity in the implementation of Technical Vocational Education and Training (TVET) programs.</p>
         </div>
 
 
